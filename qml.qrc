@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>PageJualPulsa.qml</file>
+        <file>images/ic_launcher.png</file>
+        <file>images/ic_menu.png</file>
+        <file>PageMenu.qml</file>
+        <file>images/ic_backward.png</file>
+        <file>images/ic_forward.png</file>
+        <file>images/ic_jualpulsa.png</file>
+        <file>images/ic_setting.png</file>
+        <file>PagePengaturan.qml</file>
+    </qresource>
+</RCC>
